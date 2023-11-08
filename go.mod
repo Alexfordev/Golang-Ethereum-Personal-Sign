@@ -1,4 +1,4 @@
-module github.com/alexfordev/Golang-Ethereum-Personal-Sign
+module github.com/Alexfordev/Golang-Ethereum-Personal-Sign
 
 go 1.18
 
